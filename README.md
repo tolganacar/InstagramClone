@@ -1,4 +1,6 @@
 # InstagramCloneKotlin
+# App Presentation
+![insta](https://user-images.githubusercontent.com/83028055/181240911-429b7be5-bcc0-4290-86c5-cc7cac008359.gif)
 # Home Page
 ![image](https://user-images.githubusercontent.com/83028055/181237945-5a0b973f-b159-40d6-ade6-41d141060d26.png)
 # Sign Up
@@ -12,5 +14,3 @@
 ![image](https://user-images.githubusercontent.com/83028055/181238783-c87219bc-418b-42ed-9b33-5b967b02f6ba.png)
 ![image](https://user-images.githubusercontent.com/83028055/181238825-22245c4c-3fe3-40c1-bef4-8deba69e02f3.png)
 ![image](https://user-images.githubusercontent.com/83028055/181238915-6307dd0a-1614-41d7-8e93-13f54addf397.png)
-# Final
-![insta](https://user-images.githubusercontent.com/83028055/181240911-429b7be5-bcc0-4290-86c5-cc7cac008359.gif)
